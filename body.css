@@ -1,4 +1,9 @@
 body{
   background-color: lightblue;
-  text: red; 
+}
+p{
+  color: red;
+}
+h1{
+  color: Green;
 }
